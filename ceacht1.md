@@ -1,5 +1,8 @@
 # Ceacht 1 - Scéal Pharthaláin 
 ### Rogha Briathra - Selection of Verbs
+
+[Scéal 1](gabháil_1.md)
+
 - Tháinig: Came - tháinig siad - they came
 - Chuir: Put - chuir siad - they put- idiom cur fút - to settle
 - Mharigh: Kill - mharaigh sé - he killed - 

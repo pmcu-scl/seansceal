@@ -1,12 +1,13 @@
 # Gabhálacha Éireann
 ## Gabháil Pharthaláin
-Trí chéad bliain i ndiaidh na Díleann a tháinig
-Parthalán agus a mhuinir go hÉirinn. In Inbhear
-Scéine a tháinig siad i dtír, ach ar Inis Saimhéir ag béal
-na hÉirne a chuir siad fúthu. Saimhéar ab ainm do
-mheaschú a bhí ag Parthalán, agus in éad lena bhean
-mharaigh sé an cú agus tugadh ainm an chú riamh ó
-shin ar an oileán ina ndearna sé an marfach.
+[Siar](intro.md)
+Trí chéad bliain i ndiaidh na Díleann a tháinig Parthalán
+agus a mhuinir go hÉirinn. In Inbhear Scéine a tháinig
+siad i dtír, ach ar Inis Saimhéir ag béal na hÉirne a
+chuir siad fúthu. Saimhéar ab ainm do mheaschú a bhí ag
+Parthalán, agus in éad lena bhean mharaigh sé an cú agus
+tugadh ainm an chú riamh ó shin ar an oileán ina ndearna
+sé an marfach.
 
 	It was three hundred years after the Flood 
 	that Parthalán and his people came to Ireland.
@@ -18,17 +19,15 @@ shin ar an oileán ina ndearna sé an marfach.
 	the dog, and the island was named after the 
 	dog ever since.
 
-Mharaigh Parthalán a athair agus a mháthair ag
-iarraidh an ríocht a bhaint amach dá dheartháir, agus
-b'éigean dó féin is dá mhuintir teitheadh ansin gur
-bhain siad Éire amach. De réir mar a bhí na blianta á
-gcaitheamh bhí méadú ag teacht ar a sliocht go dtí go
-
-raibh naoi míle díobh ann faoi dheireadh. Taibhríodh 
-dóibh sin go raibh an bás ag tarraingt orthu agus
-chruinnigh siad go léir le chéile ar Sheanmhaigh Éadair
-go bhfuair an t-iomlán acu bás de phlá ann taobh istigh
-de sheachtain.
+Mharaigh Parthalán a athair agus a mháthair ag iarraidh an
+ríocht a bhaint amach dá dheartháir, agus b'éigean dó féin
+is dá mhuintir teitheadh ansin gur bhain siad Éire amach.
+De réir mar a bhí na blianta á gcaitheamh bhí méadú ag
+teacht ar a sliocht go dtí go raibh naoi míle díobh ann
+faoi dheireadh. Taibhríodh dóibh sin go raibh an bás ag
+tarraingt orthu agus chruinnigh siad go léir le chéile ar
+Sheanmhaigh Éadair go bhfuair an t-iomlán acu bás de phlá
+ann taobh istigh de sheachtain.
 
 	Parthalán killled his father and mother(before 
 	coming to Ireland) in an attempt to gain the 
