@@ -1,5 +1,5 @@
 # Gabhálacha Éireann
-## Gabháil Pharthaláin
+### Gabháil Pharthaláin
 
 [Siar](intro.md)
 ---------
