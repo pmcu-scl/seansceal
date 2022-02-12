@@ -20,4 +20,4 @@ A story telling method was chosen. Stories are always interesting, they
 have advantages as regards memory and flexibility, sentences can be
 recast, for example.
 
-[Gabháil 1](gabháil_1.md))
+[Gabháil 1](gabháil_1.md)

@@ -7,6 +7,15 @@ na hÉirne a chuir siad fúthu. Saimhéar ab ainm do
 mheaschú a bhí ag Parthalán, agus in éad lena bhean
 mharaigh sé an cú agus tugadh ainm an chú riamh ó
 shin ar an oileán ina ndearna sé an marfach.
+* It was three hundred years after the Flood that
+Parthalán and his people came to Ireland. The came to
+land at Inbhear Scéine but it was on Inis Saimhéir at
+the mouth of the Éirne, thay they settled. Saimhéar
+was the name of a pet dog belonging to Parthalán, and
+over a jealousy with his wife he killed the dog, and
+the island was named after the dog ever since.
+
+  *
 
 Mharaigh Parthalán a athair agus a mháthair ag
 iarraidh an ríocht a bhaint amach dá dheartháir, agus
@@ -18,3 +27,13 @@ dóibh sin go raibh an bás ag tarraingt orthu agus
 chruinnigh siad go léir le chéile ar Sheanmhaigh Éadair
 go bhfuair an t-iomlán acu bás de phlá ann taobh istigh
 de sheachtain.
+
+* Parthalán killled his father and mother(before coming to Ireland)
+in an attempt to gain the kindom for his brother, and himself and his
+people were forced to flee as far as Ireland. As the years went by
+his descendants were becoming numerous until there were nine thousand
+of them in the end. It appeared in a dream to these that death was 
+coming to them and they all gathered on the old plain of Éadair where 
+the whole lot of them died of a plague inside of a week.
+  *
+
