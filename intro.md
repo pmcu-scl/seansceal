@@ -16,8 +16,8 @@ Roghnaíodh  an modh scéalaíochta. Cuirtear suim i scéalta i gcónaí
 agus baineann buntáistí cuimhne agus solúpachta leis mar mhodh, is
 féidir crot nua ar abairtí, mar shampla. 
 
-A story telling method was chosen. Stories are always interestin, they
+A story telling method was chosen. Stories are always interesting, they
 have advantages as regards memory and flexibility, sentences can be
-recast for example.
+recast, for example.
 
-
+[Gabháil 1](gabháil_1.md))
