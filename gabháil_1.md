@@ -4,7 +4,7 @@
 [Siar](intro.md)
 ---------
 Trí chéad bliain i ndiaidh na Díleann a tháinig Parthalán
-agus a mhuinir go hÉirinn. In Inbhear Scéine a tháinig
+agus a mhuinitr go hÉirinn. In Inbhear Scéine a tháinig
 siad i dtír, ach ar Inis Saimhéir ag béal na hÉirne a
 chuir siad fúthu. Saimhéar ab ainm do mheaschú a bhí ag
 Parthalán, agus in éad lena bhean mharaigh sé an cú agus
