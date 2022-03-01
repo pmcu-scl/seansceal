@@ -31,7 +31,7 @@ tarraingt orthu agus chruinnigh siad go léir le chéile ar
 Sheanmhaigh Éadair go bhfuair an t-iomlán acu bás de phlá
 ann taobh istigh de sheachtain.
 
-	Parthalán killled his father and mother(before 
+	Parthalán killed his father and mother(before 
 	coming to Ireland) in an attempt to gain the 
 	kindom for his brother, and himself and his
 	people were forced to flee as far as Ireland. 
